@@ -1,4 +1,4 @@
-借鉴自 
+来自 https://github.com/ZHOUXINWEN/2019Baidu-XJTU_URFC 及 https://github.com/ABadCandy/BaiDuBigData19-URFC
 
 multimain.py 	训练模型
 
